@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.angular/
+venv/
+__pycache__/
+*.pyc
+.env
+app.db
+workdir/
+.pytest_cache/
